@@ -9,11 +9,11 @@ var box11_img,box22_img,box111_img;
 
 function preload(){
 
-  box1_img = loadImage("tom110.png");
-  box2_img = loadImage("jerry0.png")
-  box11_img = loadImage("sleepingtom.jpeg")
-  box22_img = loadImage("sleeping jerry0.png")
-  box111_img = loadImage("happytom.png")
+  box1_img = loadImage("images/tom110.png");
+  box2_img = loadImage("images/jerry0.png")
+  box11_img = loadImage("images/sleepingtom.jpeg")
+  box22_img = loadImage("images/sleeping jerry0.png")
+  box111_img = loadImage("images/happytom.png")
 }
 
 
